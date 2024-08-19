@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is the process of designing, developing, testing, and maintaining software using structured methods and principles. It is important in the technology industry because it ensures that software is reliable, efficient, and meets the needs of users. This discipline helps deliver high-quality software on time and within budget, driving innovation and supporting various applications in everyday life.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
@@ -28,6 +29,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6. Maintenance: Updating and fixing the software as needed after it’s been deployed.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall is a linear, step-by-step approach where each phase of development must be completed before moving to the next. It works well for projects with clear, unchanging requirements, like building software for a government contract where all needs are defined upfront.
 
 Agile is a flexible, iterative approach where development happens in cycles (sprints) with ongoing customer feedback. It’s ideal for projects where requirements may evolve, like developing a mobile app, where user preferences might change during the project.
@@ -41,6 +43,7 @@ Examples:
 - Agile: Creating a new social media platform.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software Developer: Writes and maintains the code to build the software, turning designs and requirements into a working product.
 
 Quality Assurance Engineer: Tests the software to find and fix bugs, ensuring it meets quality standards before release.
@@ -48,6 +51,7 @@ Quality Assurance Engineer: Tests the software to find and fix bugs, ensuring it
 Project Manager: Oversees the project, managing timelines, resources, and communication to ensure the team delivers the software on time and within budget.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Integrated Development Environments (IDEs) are tools that provide everything a developer needs in one place, like code editors, debuggers, and compilers, making coding faster and easier. An example is Visual Studio Code.
 
 Version Control Systems (VCS) track changes in the code, allowing developers to collaborate, revert to earlier versions, and manage different versions of a project. An example is Git.
@@ -55,6 +59,7 @@ Version Control Systems (VCS) track changes in the code, allowing developers to 
 Both are important because they streamline development, help prevent errors, and make collaboration smoother.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 Common challenges faced by software engineers include:
 
 1. Tight deadlines: Managing time and expectations can be tough.
@@ -70,6 +75,7 @@ Common challenges faced by software engineers include:
    - Strategy: Continuously learn and adapt by taking courses and attending workshops.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 Unit Testing: Tests individual parts of the code to ensure they work correctly. It's important for catching bugs early in the development process.
 
 Integration Testing: Checks how different parts of the software work together. It helps find issues in the interactions between components.
@@ -82,9 +88,11 @@ Acceptance Testing: Validates the software against user requirements and real-wo
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 Prompt engineering is designing questions or statements to get the best responses from AI models. It's important because well-crafted prompts help the AI understand and generate more accurate and relevant answers, improving the interaction quality.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague Prompt: "Tell me about dogs."
 
 Improved Prompt: "Explain the key differences between Labrador Retrievers and Golden Retrievers."
